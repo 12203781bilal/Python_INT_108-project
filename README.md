@@ -1,3 +1,3 @@
-# Python
+# Python Calculator
 20 FUNCTIONS Calculator
 GUYS JUST RUN IT ON JUPITER OR ATOM
